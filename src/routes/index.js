@@ -1,5 +1,5 @@
 /***** For Api Version 1  *****/
-import Instance from './api/Books';
+import Instance from './api/books';
 
 export default class Routes {
   constructor(router,db) {
