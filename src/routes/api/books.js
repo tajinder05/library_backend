@@ -1,4 +1,4 @@
-import BooksController from '../../controllers/api/books';
+import BooksController from '../../controllers/api/Books';
 
 export default class Instance {
   constructor(router,db) {
